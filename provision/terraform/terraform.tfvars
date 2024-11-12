@@ -1,4 +1,4 @@
-project_id = "vertex-mlops"
+project_id = "aiuda-labs-dev"
 subnet_region = "us-central1"
 zone = "us-central1-a"
 name_prefix = "vertex-mlops"
